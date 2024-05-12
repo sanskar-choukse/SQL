@@ -1,4 +1,4 @@
-# SQL Assigment 24-04-2024
+# SQL Assignment
 
  ### Table Creation
 
